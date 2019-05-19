@@ -7,9 +7,6 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.decorators import login_required
 from django.views.generic import TemplateView
 from django.contrib.auth.mixins import LoginRequiredMixin
-from PIL import Image
-
-#from .forms import HotelForm
 
 
 def home(request):
