@@ -51,7 +51,7 @@ Locally on your cpmmand line you will be given a link which will take you to pas
 
 Password Reset Page.
 
-![](Images/Forgot.PNG)
+![](Images/Reset.PNG)
 
 ## Image Saved in Static
 
