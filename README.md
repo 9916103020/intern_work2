@@ -57,7 +57,7 @@ Password Reset Page.
 
 When you click on add image button and then click upload image.  
 
-![](Images/Upload Button.PNG)
+![](Images/Upload%20Button.PNG)
 
 Image will be saved in static folder with your username so that we can easily extract image to show users.
 
@@ -72,7 +72,7 @@ Code:
 
 Now you can click on Image tab on Nav bar to see your image you uploaded.
 
-![](Image/View.PNG)
+![](Images/View.PNG)
 
 
 
