@@ -43,15 +43,15 @@ The project will be available at **127.0.0.1:8000**.
 
 When you click on forgot your password link you will be taken to another page where it will be asking for email id you have registered with and then hit sumbit button.
 
-![](images/Forgot.PNG)
+![](Images/Forgot.PNG)
 
 Locally on your cpmmand line you will be given a link which will take you to password reset page.
 
-![](images/Email.PNG)
+![](Images/Email.PNG)
 
 Password Reset Page.
 
-![](images/Forgot.PNG)
+![](Images/Forgot.PNG)
 
 ## Image Saved in Static
 
