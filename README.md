@@ -57,6 +57,22 @@ Password Reset Page.
 
 When you click on add image button and then click upload image.  
 
+![](Images/Upload Button.PNG)
+
+Image will be saved in static folder with your username so that we can easily extract image to show users.
+
+![](Images/Saved.PNG)
+
+For extracting image from static folder using username.
+
+Code:
+```bash
+<img src ="{% static ''%}{{ user }}.png">
+```
+
+Now you can click on Image tab on Nav bar to see your image you uploaded.
+
+![](Image/View.PNG)
 
 
 
